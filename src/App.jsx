@@ -5,7 +5,7 @@ import team from "./assets/icon-team-builder.svg";
 import Card from "./components/Card";
 function App() {
   return (
-    <main className="flex justify-center items-center font-poppins text-[15px] text-[hsl(212_6%_44%)] mt-15">
+    <main className="flex justify-center items-center font-poppins text-[15px] text-[hsl(212_6%_44%)] mt-20">
       <article className="flex flex-col gap-15 justify-center items-center mx-7">
         <div className="flex flex-col justify-center items-center">
           <h1 className="text-[1.5rem] desk:text-[2rem] font-extralight">
