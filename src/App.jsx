@@ -47,11 +47,6 @@ function App() {
             icon={calculator}
             color="hsl(212, 86%, 64%)"
           />
-
-          <div>
-            <h3></h3>
-            <p></p>
-          </div>
         </div>
       </article>
     </main>
